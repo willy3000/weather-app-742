@@ -1,0 +1,39 @@
+.main{
+    border: 1px solid green;
+    border-radius: 1ch;
+    margin-top: 40px;
+    width: fit-content;
+    padding-left: 40px;
+    padding-right: 100px;
+}
+
+button{
+    margin-top: 10px;
+}
+
+input{
+    width:300px;
+}
+
+.sec{
+    margin-left: 40px;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.temp{
+    font-size: 30px;
+    margin: 0px;
+    font-weight: 200;
+}
+
+.sec p{
+    margin-left: 25px;
+}
+
+.location{
+    font-size: 20px;
+}
